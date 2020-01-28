@@ -1,0 +1,9 @@
+*.pyc
+.idea
+instance
+docker-compose.yml
+supervisord.pid
+messages.pot
+translations
+env
+venv
